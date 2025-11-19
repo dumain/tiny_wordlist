@@ -13,7 +13,7 @@ PhilThompson replaced 3,609 words, including:
   - words containing non-alphabetic characters, and
   - other words that seem out of place in a wordlist.
 
-I've replaced most of the removed words with 3-6 character words from [hermitdave's FrequencyWords repo](https://github.com/hermitdave/FrequencyWords/).
+He replaced most of the removed words with 3-6 character words from [hermitdave's FrequencyWords repo](https://github.com/hermitdave/FrequencyWords/).
 
 This created a list with sufficient short (<4 character words) to make a 4 dice wordlist.
 I intend to use this repo to make such a wordlist.  It isn't there yet.
