@@ -26,7 +26,6 @@
 12212	area
 12241	army
 12262	arts
-12263	asap
 12315	ashy
 12325	asks
 12361	atom
@@ -238,9 +237,7 @@
 23221	dine
 23244	dire
 23246	dirt
-23253	disc
 23263	dish
-23266	disk
 23332	diva
 23333	dive
 23353	dock
@@ -279,7 +276,6 @@
 24162	dusk
 24163	dust
 24213	duty
-24216	dvds
 24252	earn
 24256	ears
 24265	ease
@@ -339,9 +335,7 @@
 26255	flap
 26266	flat
 26321	flaw
-26324	flea
 26325	fled
-26326	flee
 26335	flew
 26336	flex
 26352	flip
@@ -418,7 +412,6 @@
 32443	guru
 32444	gush
 32452	guts
-32515	haha
 32521	hail
 32522	hair
 32524	half
@@ -494,7 +487,6 @@
 34136	idly
 34223	inch
 34236	info
-34326	iowa
 34332	iris
 34334	iron
 34343	isle
@@ -544,7 +536,6 @@
 35235	knit
 35244	knot
 35246	know
-35255	kung
 35266	labs
 35311	lace
 35312	lack
@@ -712,7 +703,6 @@
 43143	odds
 43154	ogle
 43155	ogre
-43156	ohio
 43162	oink
 43163	okay
 43216	omen
@@ -803,7 +793,6 @@
 45264	pond
 45265	pong
 45311	pony
-45313	poof
 45314	pool
 45323	pope
 45334	pork
@@ -828,7 +817,6 @@
 46232	pure
 46245	purr
 46311	puts
-46312	putt
 46321	quad
 46363	quit
 46422	race
@@ -992,7 +980,6 @@
 55545	some
 55552	song
 55555	soon
-55562	sora
 55563	sort
 55611	soul
 55613	soup
@@ -1037,7 +1024,6 @@
 62115	taco
 62133	tags
 62142	take
-62151	tale
 62154	talk
 62162	tall
 62211	tame
@@ -1056,7 +1042,6 @@
 62346	tell
 62353	temp
 62361	tend
-62366	tens
 62413	tent
 62415	term
 62424	test
@@ -1128,14 +1113,12 @@
 64562	used
 64564	user
 64566	uses
-64614	utah
 64635	vain
 64661	vans
 65113	vary
 65115	vase
 65116	vast
 65124	veer
-65125	vega
 65133	veil
 65143	vent
 65213	very
@@ -1150,7 +1133,6 @@
 65315	visa
 65352	void
 65365	vote
-65432	waco
 65436	wage
 65453	wait
 65461	wake
@@ -1169,7 +1151,6 @@
 65625	wavy
 65632	ways
 65641	wear
-65654	week
 65665	well
 66111	went
 66112	were
