@@ -37,7 +37,6 @@
 12513	away
 12524	awry
 12525	axis
-12535	back
 12622	bags
 12623	bail
 12625	bait
@@ -49,7 +48,6 @@
 13135	barn
 13145	bars
 13146	base
-13153	bash
 13165	bass
 13213	bath
 13222	bats
@@ -87,7 +85,6 @@
 13566	blob
 13613	blog
 13621	blot
-13623	blow
 13631	blue
 13635	blur
 13646	boar
@@ -99,7 +96,6 @@
 14141	bond
 14145	bone
 14156	bony
-14163	book
 14166	boom
 14211	boon
 14213	boot
@@ -216,7 +212,6 @@
 22322	dark
 22326	darn
 22331	dart
-22333	dash
 22334	data
 22335	date
 22344	dawn
@@ -285,7 +280,6 @@
 24163	dust
 24213	duty
 24216	dvds
-24233	each
 24252	earn
 24256	ears
 24265	ease
@@ -318,7 +312,6 @@
 25425	fake
 25434	fall
 25443	fame
-25456	fang
 25463	fans
 25512	farm
 25516	fast
@@ -342,7 +335,6 @@
 26211	fish
 26215	fist
 26222	fits
-26224	five
 26234	flag
 26255	flap
 26266	flat
@@ -372,9 +364,7 @@
 26643	free
 26663	fret
 31124	frog
-31131	from
 31154	fuel
-31155	full
 31163	fund
 31211	funk
 31216	furs
@@ -391,10 +381,8 @@
 31345	gave
 31351	gawk
 31352	gaze
-31355	gear
 31362	geek
 31411	gems
-31436	gets
 31454	gift
 31464	gigs
 31465	gill
@@ -420,7 +408,6 @@
 32151	grad
 32166	gram
 32256	grew
-32261	grid
 32311	grin
 32314	grip
 32316	grit
@@ -431,7 +418,6 @@
 32443	guru
 32444	gush
 32452	guts
-32464	hack
 32515	haha
 32521	hail
 32522	hair
@@ -442,7 +428,6 @@
 32632	hare
 32633	harm
 32641	harp
-32646	hash
 32663	hate
 32665	hats
 32666	haul
@@ -480,7 +465,6 @@
 33436	honk
 33443	hood
 33445	hoof
-33446	hook
 33453	hoop
 33455	hoot
 33462	hope
@@ -510,7 +494,6 @@
 34136	idly
 34223	inch
 34236	info
-34313	into
 34326	iowa
 34332	iris
 34334	iron
@@ -641,7 +624,6 @@
 36612	mama
 36645	many
 36652	maps
-36666	mark
 41121	mars
 41124	mart
 41132	mash
@@ -749,7 +731,6 @@
 43435	outs
 43443	oval
 43444	oven
-43445	over
 43511	owed
 43513	owls
 43522	owns
@@ -799,7 +780,6 @@
 44561	pink
 44565	pins
 44566	pint
-44612	pipe
 44621	pits
 44622	pity
 44636	plan
@@ -812,7 +792,6 @@
 45143	ploy
 45145	plug
 45151	plum
-45155	plus
 45166	pods
 45211	poem
 45213	poet
@@ -848,12 +827,10 @@
 46222	punk
 46232	pure
 46245	purr
-46253	push
 46311	puts
 46312	putt
 46321	quad
 46363	quit
-46411	quiz
 46422	race
 46426	rack
 46446	raft
@@ -872,7 +849,6 @@
 46626	rats
 46633	rave
 46644	rays
-46653	read
 46661	real
 46664	ream
 46665	reap
@@ -917,7 +893,6 @@
 52422	room
 52424	root
 52431	rope
-52434	rose
 52441	rosy
 52511	rows
 52522	ruby
@@ -973,7 +948,6 @@
 54426	side
 54435	sift
 54436	sigh
-54445	sign
 54456	silk
 54462	silo
 54463	silt
@@ -981,7 +955,6 @@
 54524	sink
 54541	sits
 54553	size
-54614	skid
 54633	skin
 54635	skip
 54643	skis
@@ -1029,19 +1002,16 @@
 56122	spew
 56145	spin
 56165	spit
-56253	spot
 56326	spry
 56331	spud
 56332	spun
 56333	spur
-56452	star
 56523	stat
 56542	stay
 56566	stem
 56613	step
 56623	stew
 56653	stir
-61123	stop
 61262	stun
 61336	subs
 61355	such
@@ -1066,7 +1036,6 @@
 62111	tack
 62115	taco
 62133	tags
-62134	tail
 62142	take
 62151	tale
 62154	talk
@@ -1100,7 +1069,6 @@
 62465	they
 62515	thin
 62533	this
-62565	thud
 62614	thus
 62626	tide
 62633	tidy
@@ -1149,7 +1117,6 @@
 63632	tuna
 63633	tune
 63644	turf
-63651	turn
 63661	tusk
 63663	tutu
 64116	twig
@@ -1207,8 +1174,6 @@
 66111	went
 66112	were
 66113	west
-66121	wham
-66123	what
 66125	whee
 66132	when
 66142	whim
@@ -1242,7 +1207,6 @@
 66421	word
 66423	wore
 66424	work
-66434	worm
 66435	worn
 66455	wrap
 66542	yank
@@ -1251,12 +1215,10 @@
 66551	yawn
 66554	yeah
 66555	year
-66564	yell
 66613	yelp
 66624	yoga
 66631	york
 66633	your
 66643	zeal
-66646	zero
 66655	zips
 66662	zone
