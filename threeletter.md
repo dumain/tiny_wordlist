@@ -89,7 +89,6 @@
 32513	had
 32535	ham
 32645	has
-33322	hey
 33325	hid
 33352	hip
 33413	hog
@@ -97,13 +96,11 @@
 33525	hot
 33542	how
 33545	hub
-33561	huh
 34112	ice
 34123	icy
 34245	ink
 34251	inn
 34325	ion
-34333	irk
 34364	ivy
 34516	jig
 34533	jog
@@ -140,7 +137,6 @@
 42343	nba
 42531	nod
 42543	nor
-42555	not
 42616	now
 42645	nut
 42656	oaf
@@ -157,7 +153,6 @@
 44361	pep
 44363	per
 44611	pip
-45321	pop
 45442	pow
 45452	pox
 46135	pry
@@ -214,14 +209,12 @@
 65433	wad
 65521	wan
 65554	was
-65626	wax
 65651	web
 66114	wet
 66155	who
 66211	why
 66356	wok
 66364	won
-66453	wow
 66536	yak
 66541	yam
 66553	yay
@@ -229,6 +222,5 @@
 66616	yet
 66632	you
 66636	yum
-66642	zap
 66645	zen
 66665	zoo
