@@ -1,7 +1,8 @@
 # Customized EFF Diceware Wordlist
 
 The EFF has published a [great set of diceware wordlists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and an [informative diceware page](https://www.eff.org/dice).  The wordlist can also be found in the EFF's [eff_diceware repo on GitHub](https://github.com/EFForg/eff_diceware).
-This repository contains a modified wordlist based on the EFF's 5-die "large" list.
+This repository contains a couple of wordlists derived from truncated versions of the EFF's
+5-die "large" list.
 
 PhilThompson replaced 3,609 words, including:
   - words of 8 or more characters,
@@ -15,8 +16,26 @@ PhilThompson replaced 3,609 words, including:
 
 He replaced most of the removed words with 3-6 character words from [hermitdave's FrequencyWords repo](https://github.com/hermitdave/FrequencyWords/).
 
-This created a list with sufficient short (<4 character words) to make a 4 dice wordlist.
-I intend to use this repo to make such a wordlist.  It isn't there yet.
+I have extracted the three and four letter words, removed some and added some more words from hermitdave's FrequencyWords repo.
+
+There are two wordlists: a 3 dice list of three letter words and a four dice list of four letter words.
+
+Thus both provide nearly 2.6 bits of entropy per letter when used with
+a really good source of improbability (say a Brambleweeny 57 Sub-Meson
+Brain connected to an atomic vector plotter suspended in a nice hot cup
+of tea or some fair dice)
+
+These are intended for creating a passphrase where the length of passwords
+is unnecessarily restricted.
+
+To get to the equivalent of 80 bits of entropy (currently considered
+strong) using these methods would need a 31 character password: 7
+words from the four word list plus 1 word from the three word list.
+
+However if you are subject to excessive  restrictions on password 
+length you are probably also required to insert some non-alphabetic
+characters that will provide more entropy at the expense of 
+memorability.
 
 ## License
 
