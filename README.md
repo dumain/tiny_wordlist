@@ -1,8 +1,8 @@
 # Three and four word diceware wordlists
 
 The EFF has published a [great set of diceware wordlists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and an [informative diceware page](https://www.eff.org/dice).  The wordlist can also be found in the EFF's [eff_diceware repo on GitHub](https://github.com/EFForg/eff_diceware).
-This repository contains a couple of wordlists derived from truncated versions of the EFF's
-5-die "large" list.
+This repository contains a couple of wordlists derived from truncated versions of Phil Thompson's 
+revised version of the EFF's 5-die "large" list.
 
 PhilThompson replaced 3,609 words, including:
   - words of 8 or more characters,
