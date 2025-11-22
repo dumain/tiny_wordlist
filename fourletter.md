@@ -1,1296 +1,1476 @@
-11122	able
-11163	aces
-11165	ache
-11211	acid
-11214	acre
-11235	acts
-11251	adds
-11313	afar
-11333	aged
-11343	ages
-11363	ahoy
-11365	aide
-11413	aims
-11421	ajar
-11425	alas
-11462	ally
-11466	aloe
-11522	also
-11525	alto
-00000   amen
-11544	amid
-11624	anew
-12112	ants
-12133	apes
-12162	aqua
-12165	arch
-12212	area
-12241	army
-12262	arts
-12315	ashy
-12325	asks
-12361	atom
-12364	atop
-00000   aunt
-12434	aura
-12442	auto
-12455	avid
-12513	away
-12524	awry
-12525	axis
-00000   babe
-00000   baby
-00000   back
-12622	bags
-12623	bail
-12625	bait
-12626	bake
-12636	ball
-12653	band
-12662	bank
-13126	bark
-13135	barn
-13145	bars
-13146	base
-13165	bass
-13213	bath
-13222	bats
-13241	bead
-13243	beak
-13244	beam
-13246	bean
-13252	bear
-13256	beat
-13266	beds
-13312	beef
-13313	been
-13314	beep
-13316	beer
-13321	bees
-13344	bell
-13353	belt
-13356	bend
-13362	bent
-13365	best
-13411	beta
-13413	bets
-13421	bias
-13424	bids
-13432	bike
-13435	bill
-13443	bind
-13444	bing
-13452	bird
-13456	bite
-13462	bits
-13513	blah
-13545	blew
-13562	blip
-13566	blob
-13613	blog
-13621	blot
-00000   blow
-13631	blue
-13635	blur
-13646	boar
-13655	boat
-14113	body
-14122	boil
-14126	bold
-14133	bolt
-00000   bomb
-14141	bond
-14145	bone
-14156	bony
-00000   book
-14166	boom
-14211	boon
-14213	boot
-14226	bore
-14232	borg
-14234	born
-14236	boss
-14251	both
-00000   bout
-14311	bowl
-14313	bows
-14323	boxy
-14326	brag
-14362	brew
-14424	brim
-14462	brow
-14515	buck
-14533	buds
-14534	buff
-14553	bugs
-14562	bulb
-14565	bulk
-14566	bull
-14621	bump
-14634	bunk
-14645	burn
-14655	bury
-14662	bush
-14666	bust
-15112	busy
-15124	buys
-15125	buzz
-15156	cafe
-15161	cage
-15164	cake
-15211	calf
-15213	call
-15216	calm
-00000   came
-15241	camp
-15263	cane
-15321	cans
-15332	cape
-15336	caps
-15354	card
-15362	care
-15424	cars
-15425	cart
-15443	case
-15445	cash
-15454	cast
-15515	cats
-15541	cave
-15553	cell
-15564	cent
-15644	char
-16111	chat
-16136	chef
-16153	chew
-16216	chin
-16221	chip
-16241	chop
-16256	chug
-16323	city
-16326	clad
-16333	clam
-00000   clan
-16343	clap
-16364	claw
-16366	clay
-16446	clip
-16524	club
-16531	clue
-16543	coal
-16551	coat
-16564	code
-16614	coil
-16615	coin
-16621	coke
-16622	cola
-16623	cold
-16641	colt
-16644	comb
-16646	come
-21145	cone
-21223	cook
-21231	cool
-21234	coop
-21235	cope
-21251	copy
-21253	cord
-21255	core
-21256	cork
-21261	corn
-21325	cost
-21361	cove
-21411	cows
-21415	cozy
-21416	crab
-21431	cram
-21526	crew
-21533	crib
-21565	crop
-21614	crow
-21651	crux
-21656	cube
-21665	cubs
-22113	cuff
-22126	cups
-22133	curb
-22135	cure
-22144	curl
-22214	cusp
-00000   cute
-22225	cyan
-22244	daft
-00000   damn
-22261	damp
-00000   dare
-22322	dark
-22326	darn
-22331	dart
-22334	data
-22335	date
-22344	dawn
-22354	days
-00000   dead
-00000   deaf
-22361	deal
-22365	dean
-00000   dear
-22416	debt
-22443	deck
-22456	deed
-22462	deem
-22464	deep
-22535	defy
-22545	deli
-22555	demo
-22613	dent
-22623	deny
-22654	desk
-23136	dial
-23144	dibs
-23145	dice
-00000   died
-00000   diet
-23162	digs
-23163	dill
-23166	dime
-23221	dine
-23244	dire
-23246	dirt
-23263	dish
-23332	diva
-23333	dive
-23353	dock
-23363	does
-23365	dogs
-23412	dole
-23413	doll
-23423	dome
-23432	done
-23445	door
-23455	dorm
-23462	dose
-23464	dots
-23514	dove
-23516	down
-23521	doze
-23525	drab
-00000   drag
-23544	draw
-23564	drew
-23621	drip
-23642	drop
-23655	drug
-23656	drum
-23665	dual
-24113	duck
-24121	duct
-24122	dude
-24123	duel
-24124	duet
-24132	duke
-24133	dull
-24135	duly
-24136	dump
-24146	dunk
-24152	dupe
-24162	dusk
-24163	dust
-24213	duty
-00000   each
-00000   earl
-24252	earn
-24256	ears
-24265	ease
-24316	east
-24322	easy
-24333	eats
-24336	echo
-24346	edge
-24353	edgy
-24356	edit
-24365	eels
-24415	eggs
-24462	else
-24526	emit
-24565	ends
-24662	envy
-24664	epic
-25156	euro
-25211	even
-25216	ever
-25224	evil
-25232	exam
-25256	exit
-25336	eyes
-25343	face
-25353	fact
-25365	fade
-25413	fail
-25421	fair
-25425	fake
-25434	fall
-25443	fame
-25463	fans
-25512	farm
-25516	fast
-25524	fate
-00000   fear
-25543	feat
-25553	feed
-25555	feel
-25561	fees
-25562	feet
-25565	fell
-25611	felt
-25616	fend
-25623	fern
-25636	feud
-26113	file
-26121	fill
-26126	film
-26145	find
-26151	fine
-00000   fire
-26163	firm
-26211	fish
-26215	fist
-26222	fits
-26234	flag
-26255	flap
-26266	flat
-26321	flaw
-26325	fled
-26335	flew
-26336	flex
-26352	flip
-26365	flop
-26416	flow
-26446	foam
-26456	foil
-26461	fold
-26465	folk
-26513	fond
-26516	font
-26521	food
-26523	fool
-26525	foot
-26544	ford
-26545	fore
-26555	fork
-26561	form
-26611	fort
-26643	free
-26663	fret
-31124	frog
-00000   from
-31154	fuel
-00000   full
-31163	fund
-31211	funk
-31216	furs
-31221	fuse
-31223	fuss
-31226	fuzz
-31236	gain
-31244	gala
-31246	gale
-31256	game
-00000   gang
-31312	gaps
-31333	gasp
-31334	gate
-31345	gave
-31351	gawk
-31352	gaze
-00000   gear
-31362	geek
-31411	gems
-00000   gene
-31454	gift
-31464	gigs
-31465	gill
-00000   girl
-31514	give
-31531	glad
-31544	glee
-31616	glow
-31623	glue
-31632	gnat
-31634	goal
-31636	goat
-31644	goes
-31651	gold
-31653	golf
-31661	gone
-31662	gong
-31665	good
-32113	goof
-32116	goon
-32124	gosh
-32141	gown
-32144	grab
-32151	grad
-32166	gram
-32256	grew
-32311	grin
-32314	grip
-32316	grit
-32336	grow
-32352	grub
-32425	gulf
-32431	gulp
-32443	guru
-32444	gush
-32452	guts
-32521	hail
-32522	hair
-32524	half
-32525	hall
-32532	halt
-32546	hand
-00000   hang
-00000   hank
-00000   hard
-32632	hare
-32633	harm
-32641	harp
-32663	hate
-32665	hats
-32666	haul
-33114	have
-33123	hawk
-33126	haze
-33133	hazy
-33134	head
-33145	heal
-33154	heap
-00000   hear
-33164	heat
-00000   heck
-33222	heed
-33223	heel
-33231	held
-00000   hell
-33234	helm
-33236	help
-33253	hens
-33255	herb
-33262	herd
-00000   here
-33265	hero
-33331	hide
-33334	high
-33341	hike
-33343	hill
-33346	hint
-33354	hire
-33361	hiss
-33364	hits
-33365	hive
-33366	hoax
-33415	hola
-33416	hold
-33423	hole
-00000   holy
-33431	home
-33436	honk
-33443	hood
-33445	hoof
-00000   hook
-33453	hoop
-33455	hoot
-33462	hope
-33512	horn
-33521	hose
-33522	host
-00000   hour
-33543	howl
-33552	huff
-33554	huge
-33556	hugs
-33562	hula
-33563	hulk
-33564	hull
-33621	hums
-00000   hung
-33625	hunk
-33626	hunt
-33646	hurt
-33652	hush
-33656	huts
-33665	hymn
-33666	hype
-34113	iced
-34116	icky
-34121	icon
-34124	idea
-34135	idle
-34136	idly
-34223	inch
-34236	info
-00000   into
-34332	iris
-34334	iron
-34343	isle
-34354	itch
-34356	item
-34411	jabs
-34412	jack
-34421	jade
-34423	jail
-34426	jams
-34436	jars
-34443	java
-34452	jaws
-34454	jazz
-34456	jeep
-00000   jerk
-34464	jest
-34511	jets
-34523	jinx
-34531	jobs
-34536	join
-34546	joke
-34555	jolt
-34611	joys
-34615	judo
-34632	july
-34635	jump
-34644	june
-34652	junk
-34662	jury
-34663	just
-35111	kale
-35115	keen
-35121	keep
-35125	kelp
-35131	kept
-35134	keys
-35136	kick
-00000   kill
-35143	kiln
-35144	kilo
-35146	kilt
-35153	kind
-35164	king
-35214	kite
-35221	kiwi
-35225	knee
-35233	knew
-35235	knit
-35244	knot
-35246	know
-35266	labs
-35311	lace
-35312	lack
-00000   lady
-00000   laid
-35326	lair
-35331	lake
-35333	lamb
-35334	lamp
-35341	land
-35345	lane
-35351	lang
-35364	laps
-35411	lard
-35415	lark
-35422	lash
-35424	last
-35432	late
-35454	lava
-35462	lawn
-35463	laws
-35515	lazy
-00000   lead
-35521	leaf
-35523	leak
-35526	lean
-35532	leap
-35552	left
-35611	lego
-35613	legs
-35624	lend
-35626	lens
-35632	lent
-35635	less
-35645	lets
-00000   liar
-00000   lied
-36111	life
-36112	lift
-36123	like
-00000   lily
-36133	limb
-36136	lime
-36143	limo
-36146	line
-36164	link
-36212	lint
-36213	lion
-36216	lips
-36224	list
-36236	live
-36252	load
-36255	loaf
-36256	loan
-36313	lock
-36322	loco
-36325	loft
-36333	logo
-36334	logs
-36336	lone
-36341	long
-36343	look
-36351	loop
-36353	loot
-00000   lord
-36356	lose
-36362	loss
-36364	lost
-36412	loud
-36416	love
-36431	luck
-36442	lump
-36454	lung
-36461	lure
-36463	lurk
-36464	lush
-36516	mace
-36523	made
-00000   maid
-36541	mail
-36544	main
-36553	make
-00000   male
-36565	mall
-36611	malt
-36612	mama
-36645	many
-36652	maps
-41121	mars
-41124	mart
-41132	mash
-41135	mask
-41142	mass
-00000   mate
-41153	math
-41156	mats
-41215	mayo
-41222	maze
-41224	meal
-41226	mean
-41233	meat
-41244	meet
-41246	mega
-41254	melt
-41262	memo
-41266	mend
-41313	menu
-41315	meow
-41323	mere
-41335	mess
-41363	mice
-41421	mild
-41422	mile
-41424	milk
-41426	mill
-41434	mime
-41441	mind
-41445	mine
-41453	mini
-41455	mink
-41456	mint
-41511	miss
-41513	mist
-41525	mock
-41533	mode
-41551	mojo
-41553	mold
-00000   monk
-41611	mono
-41623	mood
-41631	moon
-41634	moor
-41644	more
-41653	moss
-41654	most
-41661	moth
-42124	move
-42141	much
-42142	muck
-42152	mugs
-42154	mule
-42221	muse
-42223	mush
-42233	must
-42244	mute
-42246	mutt
-42256	myth
-42265	nail
-42311	name
-42322	nape
-42341	navy
-42344	near
-42353	neat
-42356	neck
-42363	need
-42414	neon
-42421	nerd
-42426	nest
-42433	nets
-42453	news
-42454	newt
-42455	next
-42461	nice
-00000   nick
-42535	none
-42541	noon
-42542	nope
-42545	norm
-42552	nose
-42554	nosy
-42562	note
-42612	nova
-42631	numb
-42664	oath
-42665	oats
-00000   obey
-43114	oboe
-43143	odds
-43154	ogle
-43155	ogre
-43162	oink
-43163	okay
-43216	omen
-43222	omit
-43224	once
-43233	only
-43242	onto
-43244	onyx
-43245	oops
-43246	ooze
-43251	oozy
-43253	opal
-43254	open
-43323	orca
-43352	ouch
-43435	outs
-43443	oval
-43444	oven
-00000   over
-43511	owed
-43513	owls
-43522	owns
-43533	pace
-43542	pack
-43546	pact
-43556	pads
-43561	page
-43566	paid
-00000   pain
-43613	pair
-43623	pale
-43624	palm
-43626	pals
-43642	pang
-43645	pans
-43646	pant
-00000   papa
-44114	park
-44133	part
-44145	pass
-00000   past
-44213	path
-44235	pawn
-44236	paws
-44255	pays
-44262	peak
-44265	pear
-44312	peas
-44316	peck
-44323	peek
-44324	peel
-44326	peep
-44331	peer
-44335	pelt
-44354	pens
-44415	perm
-44422	peso
-44423	pest
-44435	pets
-44511	pick
-44524	pier
-44525	pies
-44533	pigs
-44534	pike
-44535	pile
-44542	pill
-44554	pine
-44556	ping
-44561	pink
-44565	pins
-44566	pint
-00000   pipe
-44621	pits
-44622	pity
-44636	plan
-44666	play
-45124	plea
-45134	plod
-45135	plop
-45136	plot
-45142	plow
-45143	ploy
-45145	plug
-45151	plum
-45166	pods
-45211	poem
-45213	poet
-45221	pogo
-45232	poke
-45241	pole
-45253	poll
-45256	polo
-45264	pond
-45265	pong
-45311	pony
-45314	pool
-00000   poor
-45323	pope
-45334	pork
-45336	port
-45346	pose
-45354	posh
-45361	post
-45423	pots
-45433	pour
-45441	pout
-00000   pray
-45524	prep
-45553	prey
-45662	prop
-46111	pros
-46142	puck
-46146	puff
-46154	pull
-46161	pulp
-46164	puma
-46211	pump
-46222	punk
-46232	pure
-46245	purr
-00000   push
-46311	puts
-46321	quad
-46363	quit
-46422	race
-46426	rack
-46446	raft
-46452	rage
-46455	rags
-46461	raid
-46465	rail
-46514	rain
-46526	rake
-46535	ramp
-46544	rang
-46553	rank
-46565	rare
-46613	rash
-46616	rate
-46626	rats
-46633	rave
-46644	rays
-00000   read
-46661	real
-46664	ream
-46665	reap
-51111	rear
-51166	redo
-51211	reds
-51214	reed
-51215	reef
-51216	reel
-51355	rely
-51432	rent
-51513	reps
-51546	rest
-51664	revs
-52132	ribs
-52133	rice
-52134	rich
-52151	ride
-52162	rift
-52221	rind
-52222	ring
-52226	rink
-52233	riot
-52236	ripe
-52244	rips
-52246	rise
-52253	risk
-52263	ritz
-52314	road
-52316	roam
-52323	roar
-52331	robe
-52341	rock
-52352	rode
-52355	rods
-52361	role
-52364	roll
-52413	rome
-52414	romp
-52415	roof
-52416	rook
-52422	room
-52424	root
-52431	rope
-00000   rose
-52441	rosy
-52511	rows
-52522	ruby
-00000   rude
-52534	ruin
-52541	rule
-52561	rung
-52565	runs
-52566	runt
-52614	ruse
-52615	rush
-52623	rust
-52633	sack
-52651	safe
-52661	saga
-52662	sage
-52665	said
-52666	sail
-53115	sake
-53123	sale
-53135	salt
-53144	same
-53146	sand
-53165	sane
-53166	sang
-53212	sank
-53223	sash
-53242	save
-53255	says
-53264	scam
-53265	scan
-53446	seal
-53454	seas
-53456	seat
-53522	seed
-53525	seek
-53532	seem
-00000   seen
-53535	sees
-53546	self
-53552	sell
-53563	send
-53614	sent
-53643	sets
-53656	sewn
-54134	sham
-54166	shed
-54235	shin
-54246	ship
-54261	shoe
-54265	shop
-00000   shot
-54335	show
-54421	shun
-54423	shut
-00000   sick
-54426	side
-54435	sift
-54436	sigh
-00000   sign
-54456	silk
-54462	silo
-54463	silt
-54515	sing
-54524	sink
-00000   site
-54541	sits
-54553	size
-54633	skin
-54635	skip
-54643	skis
-54656	slab
-54665	slag
-55111	slam
-00000   slap
-55123	slaw
-55124	sled
-55161	slim
-55166	slip
-55212	slit
-55215	slop
-55225	slot
-55232	slow
-55242	slug
-55244	slum
-55323	smog
-55341	smug
-55346	snag
-55361	snap
-55442	snow
-55446	snub
-55453	snug
-55456	soak
-55462	soap
-55463	soar
-55466	sock
-55514	soda
-55516	sofa
-55521	soft
-55525	soil
-55532	sold
-55533	sole
-55541	solo
-55545	some
-55552	song
-55555	soon
-55563	sort
-55611	soul
-55613	soup
-55614	sour
-55633	spam
-55634	span
-56122	spew
-56145	spin
-56165	spit
-00000   spot
-56326	spry
-56331	spud
-56332	spun
-56333	spur
-00000   star
-56523	stat
-56542	stay
-56566	stem
-56613	step
-56623	stew
-56653	stir
-00000   stop
-61262	stun
-61336	subs
-61355	such
-00000   suck
-61363	suds
-61413	suit
-61423	sulk
-61434	sums
-61442	sung
-61443	sunk
-61446	suns
-61462	sure
-61464	surf
-61532	swab
-61535	swam
-61541	swan
-61543	swap
-61545	swat
-61546	sway
-61612	swim
-61646	sync
-61666	tabs
-62111	tack
-62115	taco
-62133	tags
-00000   tail
-62142	take
-00000   tale
-62154	talk
-62162	tall
-62211	tame
-62216	tang
-62222	tank
-62234	tape
-62245	taps
-62255	tarp
-62256	tart
-62263	task
-62331	taxi
-62334	teal
-62335	team
-62341	tear
-62342	tech
-62346	tell
-62353	temp
-62361	tend
-62413	tent
-62415	term
-62424	test
-62432	text
-00000   than
-62441	that
-62442	thaw
-62444	thee
-62446	them
-62453	then
-62465	they
-62515	thin
-62533	this
-00000   thou
-62614	thus
-62626	tide
-62633	tidy
-62635	tied
-62636	ties
-62651	tile
-62654	till
-62655	tilt
-62661	time
-63121	tint
-63123	tiny
-63133	tips
-63135	tire
-63152	toad
-63156	toes
-63161	tofu
-63162	toil
-63165	told
-63211	toll
-63214	tomb
-63216	tone
-63223	tons
-63224	took
-63225	tool
-63235	tops
-63241	tore
-63242	torn
-63245	toss
-63255	tour
-63312	town
-63322	toys
-63355	tram
-63362	trap
-63413	tray
-63424	tree
-63426	trek
-63463	trim
-63466	trio
-63511	trip
-63531	trot
-63544	true
-63566	tuba
-63611	tube
-63614	tuck
-63621	tuft
-63632	tuna
-63633	tune
-63644	turf
-00000   turn
-63661	tusk
-63663	tutu
-64116	twig
-64121	twin
-64142	type
-64222	undo
-64265	unit
-64513	upon
-64562	used
-64564	user
-64566	uses
-64635	vain
-64661	vans
-65113	vary
-65115	vase
-65116	vast
-65124	veer
-65133	veil
-65143	vent
-65213	very
-65215	vest
-65223	veto
-65226	vial
-65231	vibe
-65233	vice
-65241	view
-65251	vile
-65254	vine
-65315	visa
-65352	void
-65365	vote
-65436	wage
-65453	wait
-65461	wake
-65463	walk
-65466	wall
-65522	wand
-65525	want
-65533	ward
-65535	warm
-65544	warn
-65546	warp
-65553	wary
-65555	wash
-65565	wasp
-65621	wave
-65625	wavy
-65632	ways
-00000   weak
-65641	wear
-00000   weed
-00000   week
-65665	well
-66111	went
-66112	were
-66113	west
-00000   what
-66125	whee
-66132	when
-66142	whim
-66154	whiz
-00000   whoa
-66162	whom
-66212	wick
-66213	wide
-00000   wife
-66224	wifi
-66231	wigs
-66232	wild
-66236	will
-66244	wilt
-66245	wimp
-66253	wind
-66261	wine
-66262	wing
-66265	wink
-66312	wins
-66314	wipe
-66321	wire
-66325	wiry
-66331	wise
-66334	wish
-66344	with
-66346	wits
-66353	woah
-00000   woke
-66361	wolf
-66366	wood
-66413	woof
-66415	wool
-66421	word
-66423	wore
-66424	work
-66435	worn
-66455	wrap
-66542	yank
-66544	yard
-66546	yarn
-66551	yawn
-66554	yeah
-66555	year
-00000   yell
-66613	yelp
-66624	yoga
-66631	york
-66633	your
-66643	zeal
-66655	zips
-66662	zone
+|Roll|Word|
+|:---|:---|
+|1111|able|
+|1112|aces|
+|1113|ache|
+|1114|acid|
+|1115|acre|
+|1116|acts|
+|1121|adds|
+|1122|afar|
+|1123|aged|
+|1124|ages|
+|1125|ahoy|
+|1126|aide|
+|1131|aims|
+|1132|ajar|
+|1133|alas|
+|1134|ally|
+|1135|aloe|
+|1136|also|
+|1141|alto|
+|1142|amen|
+|1143|amid|
+|1144|anew|
+|1145|ants|
+|1146|apes|
+|1151|aqua|
+|1152|arch|
+|1153|area|
+|1154|army|
+|1155|arts|
+|1156|ashy|
+|1161|asks|
+|1162|atom|
+|1163|atop|
+|1164|aunt|
+|1165|aura|
+|1166|auto|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|1211|avid|
+|1212|away|
+|1213|awry|
+|1214|axis|
+|1215|babe|
+|1216|baby|
+|1221|back|
+|1222|bags|
+|1223|bail|
+|1224|bait|
+|1225|bake|
+|1226|ball|
+|1231|band|
+|1232|bank|
+|1233|bark|
+|1234|barn|
+|1235|bars|
+|1236|base|
+|1241|bass|
+|1242|bath|
+|1243|bats|
+|1244|bead|
+|1245|beak|
+|1246|beam|
+|1251|bean|
+|1252|bear|
+|1253|beat|
+|1254|beds|
+|1255|beef|
+|1256|been|
+|1261|beep|
+|1262|beer|
+|1263|bees|
+|1264|bell|
+|1265|belt|
+|1266|bend|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|1311|bent|
+|1312|best|
+|1313|beta|
+|1314|bets|
+|1315|bias|
+|1316|bids|
+|1321|bike|
+|1322|bill|
+|1323|bind|
+|1324|bing|
+|1325|bird|
+|1326|bite|
+|1331|bits|
+|1332|blah|
+|1333|blew|
+|1334|blip|
+|1335|blob|
+|1336|blog|
+|1341|blot|
+|1342|blow|
+|1343|blue|
+|1344|blur|
+|1345|boar|
+|1346|boat|
+|1351|body|
+|1352|boil|
+|1353|bold|
+|1354|bolt|
+|1355|bomb|
+|1356|bond|
+|1361|bone|
+|1362|bony|
+|1363|book|
+|1364|boom|
+|1365|boon|
+|1366|boot|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|1411|bore|
+|1412|borg|
+|1413|born|
+|1414|boss|
+|1415|both|
+|1416|bout|
+|1421|bowl|
+|1422|bows|
+|1423|boxy|
+|1424|brag|
+|1425|brew|
+|1426|brim|
+|1431|brow|
+|1432|buck|
+|1433|buds|
+|1434|buff|
+|1435|bugs|
+|1436|bulb|
+|1441|bulk|
+|1442|bull|
+|1443|bump|
+|1444|bunk|
+|1445|burn|
+|1446|bury|
+|1451|bush|
+|1452|bust|
+|1453|busy|
+|1454|buys|
+|1455|buzz|
+|1456|cafe|
+|1461|cage|
+|1462|cake|
+|1463|calf|
+|1464|call|
+|1465|calm|
+|1466|came|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|1511|camp|
+|1512|cane|
+|1513|cans|
+|1514|cape|
+|1515|caps|
+|1516|card|
+|1521|care|
+|1522|cars|
+|1523|cart|
+|1524|case|
+|1525|cash|
+|1526|cast|
+|1531|cats|
+|1532|cave|
+|1533|cell|
+|1534|cent|
+|1535|char|
+|1536|chat|
+|1541|chef|
+|1542|chew|
+|1543|chin|
+|1544|chip|
+|1545|chop|
+|1546|chug|
+|1551|city|
+|1552|clad|
+|1553|clam|
+|1554|clan|
+|1555|clap|
+|1556|claw|
+|1561|clay|
+|1562|clip|
+|1563|club|
+|1564|clue|
+|1565|coal|
+|1566|coat|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|1611|code|
+|1612|coil|
+|1613|coin|
+|1614|coke|
+|1615|cola|
+|1616|cold|
+|1621|colt|
+|1622|comb|
+|1623|come|
+|1624|cone|
+|1625|cook|
+|1626|cool|
+|1631|coop|
+|1632|cope|
+|1633|copy|
+|1634|cord|
+|1635|core|
+|1636|cork|
+|1641|corn|
+|1642|cost|
+|1643|cove|
+|1644|cows|
+|1645|cozy|
+|1646|crab|
+|1651|cram|
+|1652|crew|
+|1653|crib|
+|1654|crop|
+|1655|crow|
+|1656|crux|
+|1661|cube|
+|1662|cubs|
+|1663|cuff|
+|1664|cups|
+|1665|curb|
+|1666|cure|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|2111|curl|
+|2112|cusp|
+|2113|cute|
+|2114|cyan|
+|2115|daft|
+|2116|damn|
+|2121|damp|
+|2122|dare|
+|2123|dark|
+|2124|darn|
+|2125|dart|
+|2126|data|
+|2131|date|
+|2132|dawn|
+|2133|days|
+|2134|dead|
+|2135|deaf|
+|2136|deal|
+|2141|dean|
+|2142|dear|
+|2143|debt|
+|2144|deck|
+|2145|deed|
+|2146|deem|
+|2151|deep|
+|2152|defy|
+|2153|deli|
+|2154|demo|
+|2155|dent|
+|2156|deny|
+|2161|desk|
+|2162|dial|
+|2163|dibs|
+|2164|dice|
+|2165|died|
+|2166|diet|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|2211|digs|
+|2212|dill|
+|2213|dime|
+|2214|dine|
+|2215|dire|
+|2216|dirt|
+|2221|dish|
+|2222|diva|
+|2223|dive|
+|2224|dock|
+|2225|does|
+|2226|dogs|
+|2231|dole|
+|2232|doll|
+|2233|dome|
+|2234|done|
+|2235|door|
+|2236|dorm|
+|2241|dose|
+|2242|dots|
+|2243|dove|
+|2244|down|
+|2245|doze|
+|2246|drab|
+|2251|drag|
+|2252|draw|
+|2253|drew|
+|2254|drip|
+|2255|drop|
+|2256|drug|
+|2261|drum|
+|2262|dual|
+|2263|duck|
+|2264|duct|
+|2265|dude|
+|2266|duel|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|2311|duet|
+|2312|duke|
+|2313|dull|
+|2314|duly|
+|2315|dump|
+|2316|dunk|
+|2321|dupe|
+|2322|dusk|
+|2323|dust|
+|2324|duty|
+|2325|each|
+|2326|earl|
+|2331|earn|
+|2332|ears|
+|2333|ease|
+|2334|east|
+|2335|easy|
+|2336|eats|
+|2341|echo|
+|2342|edge|
+|2343|edgy|
+|2344|edit|
+|2345|eels|
+|2346|eggs|
+|2351|else|
+|2352|emit|
+|2353|ends|
+|2354|envy|
+|2355|epic|
+|2356|euro|
+|2361|even|
+|2362|ever|
+|2363|evil|
+|2364|exam|
+|2365|exit|
+|2366|eyes|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|2411|face|
+|2412|fact|
+|2413|fade|
+|2414|fail|
+|2415|fair|
+|2416|fake|
+|2421|fall|
+|2422|fame|
+|2423|fans|
+|2424|farm|
+|2425|fast|
+|2426|fate|
+|2431|fear|
+|2432|feat|
+|2433|feed|
+|2434|feel|
+|2435|fees|
+|2436|feet|
+|2441|fell|
+|2442|felt|
+|2443|fend|
+|2444|fern|
+|2445|feud|
+|2446|file|
+|2451|fill|
+|2452|film|
+|2453|find|
+|2454|fine|
+|2455|fire|
+|2456|firm|
+|2461|fish|
+|2462|fist|
+|2463|fits|
+|2464|flag|
+|2465|flap|
+|2466|flat|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|2511|flaw|
+|2512|fled|
+|2513|flew|
+|2514|flex|
+|2515|flip|
+|2516|flop|
+|2521|flow|
+|2522|foam|
+|2523|foil|
+|2524|fold|
+|2525|folk|
+|2526|fond|
+|2531|font|
+|2532|food|
+|2533|fool|
+|2534|foot|
+|2535|ford|
+|2536|fore|
+|2541|fork|
+|2542|form|
+|2543|fort|
+|2544|free|
+|2545|fret|
+|2546|frog|
+|2551|from|
+|2552|fuel|
+|2553|full|
+|2554|fund|
+|2555|funk|
+|2556|furs|
+|2561|fuse|
+|2562|fuss|
+|2563|fuzz|
+|2564|gain|
+|2565|gala|
+|2566|gale|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|2611|game|
+|2612|gang|
+|2613|gaps|
+|2614|gasp|
+|2615|gate|
+|2616|gave|
+|2621|gawk|
+|2622|gaze|
+|2623|gear|
+|2624|geek|
+|2625|gems|
+|2626|gene|
+|2631|gift|
+|2632|gigs|
+|2633|gill|
+|2634|girl|
+|2635|give|
+|2636|glad|
+|2641|glee|
+|2642|glow|
+|2643|glue|
+|2644|gnat|
+|2645|goal|
+|2646|goat|
+|2651|goes|
+|2652|gold|
+|2653|golf|
+|2654|gone|
+|2655|gong|
+|2656|good|
+|2661|goof|
+|2662|goon|
+|2663|gosh|
+|2664|gown|
+|2665|grab|
+|2666|grad|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|3111|gram|
+|3112|grew|
+|3113|grin|
+|3114|grip|
+|3115|grit|
+|3116|grow|
+|3121|grub|
+|3122|gulf|
+|3123|gulp|
+|3124|guru|
+|3125|gush|
+|3126|guts|
+|3131|hail|
+|3132|hair|
+|3133|half|
+|3134|hall|
+|3135|halt|
+|3136|hand|
+|3141|hang|
+|3142|hank|
+|3143|hard|
+|3144|hare|
+|3145|harm|
+|3146|harp|
+|3151|hate|
+|3152|hats|
+|3153|haul|
+|3154|have|
+|3155|hawk|
+|3156|haze|
+|3161|hazy|
+|3162|head|
+|3163|heal|
+|3164|heap|
+|3165|hear|
+|3166|heat|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|3211|heck|
+|3212|heed|
+|3213|heel|
+|3214|held|
+|3215|hell|
+|3216|helm|
+|3221|help|
+|3222|hens|
+|3223|herb|
+|3224|herd|
+|3225|here|
+|3226|hero|
+|3231|hide|
+|3232|high|
+|3233|hike|
+|3234|hill|
+|3235|hint|
+|3236|hire|
+|3241|hiss|
+|3242|hits|
+|3243|hive|
+|3244|hoax|
+|3245|hola|
+|3246|hold|
+|3251|hole|
+|3252|holy|
+|3253|home|
+|3254|honk|
+|3255|hood|
+|3256|hoof|
+|3261|hook|
+|3262|hoop|
+|3263|hoot|
+|3264|hope|
+|3265|horn|
+|3266|hose|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|3311|host|
+|3312|hour|
+|3313|howl|
+|3314|huff|
+|3315|huge|
+|3316|hugs|
+|3321|hula|
+|3322|hulk|
+|3323|hull|
+|3324|hums|
+|3325|hung|
+|3326|hunk|
+|3331|hunt|
+|3332|hurt|
+|3333|hush|
+|3334|huts|
+|3335|hymn|
+|3336|hype|
+|3341|iced|
+|3342|icky|
+|3343|icon|
+|3344|idea|
+|3345|idle|
+|3346|idly|
+|3351|inch|
+|3352|info|
+|3353|into|
+|3354|iris|
+|3355|iron|
+|3356|isle|
+|3361|itch|
+|3362|item|
+|3363|jabs|
+|3364|jack|
+|3365|jade|
+|3366|jail|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|3411|jams|
+|3412|jars|
+|3413|java|
+|3414|jaws|
+|3415|jazz|
+|3416|jeep|
+|3421|jerk|
+|3422|jest|
+|3423|jets|
+|3424|jinx|
+|3425|jobs|
+|3426|join|
+|3431|joke|
+|3432|jolt|
+|3433|joys|
+|3434|judo|
+|3435|july|
+|3436|jump|
+|3441|june|
+|3442|junk|
+|3443|jury|
+|3444|just|
+|3445|kale|
+|3446|keen|
+|3451|keep|
+|3452|kelp|
+|3453|kept|
+|3454|keys|
+|3455|kick|
+|3456|kill|
+|3461|kiln|
+|3462|kilo|
+|3463|kilt|
+|3464|kind|
+|3465|king|
+|3466|kite|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|3511|kiwi|
+|3512|knee|
+|3513|knew|
+|3514|knit|
+|3515|knot|
+|3516|know|
+|3521|labs|
+|3522|lace|
+|3523|lack|
+|3524|lady|
+|3525|laid|
+|3526|lair|
+|3531|lake|
+|3532|lamb|
+|3533|lamp|
+|3534|land|
+|3535|lane|
+|3536|lang|
+|3541|laps|
+|3542|lard|
+|3543|lark|
+|3544|lash|
+|3545|last|
+|3546|late|
+|3551|lava|
+|3552|lawn|
+|3553|laws|
+|3554|lazy|
+|3555|lead|
+|3556|leaf|
+|3561|leak|
+|3562|lean|
+|3563|leap|
+|3564|left|
+|3565|lego|
+|3566|legs|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|3611|lend|
+|3612|lens|
+|3613|lent|
+|3614|less|
+|3615|lets|
+|3616|liar|
+|3621|lied|
+|3622|life|
+|3623|lift|
+|3624|like|
+|3625|lily|
+|3626|limb|
+|3631|lime|
+|3632|limo|
+|3633|line|
+|3634|link|
+|3635|lint|
+|3636|lion|
+|3641|lips|
+|3642|list|
+|3643|live|
+|3644|load|
+|3645|loaf|
+|3646|loan|
+|3651|lock|
+|3652|loco|
+|3653|loft|
+|3654|logo|
+|3655|logs|
+|3656|lone|
+|3661|long|
+|3662|look|
+|3663|loop|
+|3664|loot|
+|3665|lord|
+|3666|lose|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|4111|loss|
+|4112|lost|
+|4113|loud|
+|4114|love|
+|4115|luck|
+|4116|lump|
+|4121|lung|
+|4122|lure|
+|4123|lurk|
+|4124|lush|
+|4125|mace|
+|4126|made|
+|4131|maid|
+|4132|mail|
+|4133|main|
+|4134|make|
+|4135|male|
+|4136|mall|
+|4141|malt|
+|4142|mama|
+|4143|many|
+|4144|maps|
+|4145|mars|
+|4146|mart|
+|4151|mash|
+|4152|mask|
+|4153|mass|
+|4154|mate|
+|4155|math|
+|4156|mats|
+|4161|mayo|
+|4162|maze|
+|4163|meal|
+|4164|mean|
+|4165|meat|
+|4166|meet|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|4211|mega|
+|4212|melt|
+|4213|memo|
+|4214|mend|
+|4215|menu|
+|4216|meow|
+|4221|mere|
+|4222|mess|
+|4223|mice|
+|4224|mild|
+|4225|mile|
+|4226|milk|
+|4231|mill|
+|4232|mime|
+|4233|mind|
+|4234|mine|
+|4235|mini|
+|4236|mink|
+|4241|mint|
+|4242|miss|
+|4243|mist|
+|4244|mock|
+|4245|mode|
+|4246|mojo|
+|4251|mold|
+|4252|monk|
+|4253|mono|
+|4254|mood|
+|4255|moon|
+|4256|moor|
+|4261|more|
+|4262|moss|
+|4263|most|
+|4264|moth|
+|4265|move|
+|4266|much|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|4311|muck|
+|4312|mugs|
+|4313|mule|
+|4314|muse|
+|4315|mush|
+|4316|must|
+|4321|mute|
+|4322|mutt|
+|4323|myth|
+|4324|nail|
+|4325|name|
+|4326|nape|
+|4331|navy|
+|4332|near|
+|4333|neat|
+|4334|neck|
+|4335|need|
+|4336|neon|
+|4341|nerd|
+|4342|nest|
+|4343|nets|
+|4344|news|
+|4345|newt|
+|4346|next|
+|4351|nice|
+|4352|nick|
+|4353|none|
+|4354|noon|
+|4355|nope|
+|4356|norm|
+|4361|nose|
+|4362|nosy|
+|4363|note|
+|4364|nova|
+|4365|numb|
+|4366|oath|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|4411|oats|
+|4412|obey|
+|4413|oboe|
+|4414|odds|
+|4415|ogle|
+|4416|ogre|
+|4421|oink|
+|4422|okay|
+|4423|omen|
+|4424|omit|
+|4425|once|
+|4426|only|
+|4431|onto|
+|4432|onyx|
+|4433|oops|
+|4434|ooze|
+|4435|oozy|
+|4436|opal|
+|4441|open|
+|4442|orca|
+|4443|ouch|
+|4444|outs|
+|4445|oval|
+|4446|oven|
+|4451|over|
+|4452|owed|
+|4453|owls|
+|4454|owns|
+|4455|pace|
+|4456|pack|
+|4461|pact|
+|4462|pads|
+|4463|page|
+|4464|paid|
+|4465|pain|
+|4466|pair|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|4511|pale|
+|4512|palm|
+|4513|pals|
+|4514|pang|
+|4515|pans|
+|4516|pant|
+|4521|papa|
+|4522|park|
+|4523|part|
+|4524|pass|
+|4525|past|
+|4526|path|
+|4531|pawn|
+|4532|paws|
+|4533|pays|
+|4534|peak|
+|4535|pear|
+|4536|peas|
+|4541|peck|
+|4542|peek|
+|4543|peel|
+|4544|peep|
+|4545|peer|
+|4546|pelt|
+|4551|pens|
+|4552|perm|
+|4553|peso|
+|4554|pest|
+|4555|pets|
+|4556|pick|
+|4561|pier|
+|4562|pies|
+|4563|pigs|
+|4564|pike|
+|4565|pile|
+|4566|pill|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|4611|pine|
+|4612|ping|
+|4613|pink|
+|4614|pins|
+|4615|pint|
+|4616|pipe|
+|4621|pits|
+|4622|pity|
+|4623|plan|
+|4624|play|
+|4625|plea|
+|4626|plod|
+|4631|plop|
+|4632|plot|
+|4633|plow|
+|4634|ploy|
+|4635|plug|
+|4636|plum|
+|4641|pods|
+|4642|poem|
+|4643|poet|
+|4644|pogo|
+|4645|poke|
+|4646|pole|
+|4651|poll|
+|4652|polo|
+|4653|pond|
+|4654|pong|
+|4655|pony|
+|4656|pool|
+|4661|poor|
+|4662|pope|
+|4663|pork|
+|4664|port|
+|4665|pose|
+|4666|posh|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|5111|post|
+|5112|pots|
+|5113|pour|
+|5114|pout|
+|5115|pray|
+|5116|prep|
+|5121|prey|
+|5122|prop|
+|5123|pros|
+|5124|puck|
+|5125|puff|
+|5126|pull|
+|5131|pulp|
+|5132|puma|
+|5133|pump|
+|5134|punk|
+|5135|pure|
+|5136|purr|
+|5141|push|
+|5142|puts|
+|5143|quad|
+|5144|quit|
+|5145|race|
+|5146|rack|
+|5151|raft|
+|5152|rage|
+|5153|rags|
+|5154|raid|
+|5155|rail|
+|5156|rain|
+|5161|rake|
+|5162|ramp|
+|5163|rang|
+|5164|rank|
+|5165|rare|
+|5166|rash|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|5211|rate|
+|5212|rats|
+|5213|rave|
+|5214|rays|
+|5215|read|
+|5216|real|
+|5221|ream|
+|5222|reap|
+|5223|rear|
+|5224|redo|
+|5225|reds|
+|5226|reed|
+|5231|reef|
+|5232|reel|
+|5233|rely|
+|5234|rent|
+|5235|reps|
+|5236|rest|
+|5241|revs|
+|5242|ribs|
+|5243|rice|
+|5244|rich|
+|5245|ride|
+|5246|rift|
+|5251|rind|
+|5252|ring|
+|5253|rink|
+|5254|riot|
+|5255|ripe|
+|5256|rips|
+|5261|rise|
+|5262|risk|
+|5263|ritz|
+|5264|road|
+|5265|roam|
+|5266|roar|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|5311|robe|
+|5312|rock|
+|5313|rode|
+|5314|rods|
+|5315|role|
+|5316|roll|
+|5321|rome|
+|5322|romp|
+|5323|roof|
+|5324|rook|
+|5325|room|
+|5326|root|
+|5331|rope|
+|5332|rose|
+|5333|rosy|
+|5334|rows|
+|5335|ruby|
+|5336|rude|
+|5341|ruin|
+|5342|rule|
+|5343|rung|
+|5344|runs|
+|5345|runt|
+|5346|ruse|
+|5351|rush|
+|5352|rust|
+|5353|sack|
+|5354|safe|
+|5355|saga|
+|5356|sage|
+|5361|said|
+|5362|sail|
+|5363|sake|
+|5364|sale|
+|5365|salt|
+|5366|same|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|5411|sand|
+|5412|sane|
+|5413|sang|
+|5414|sank|
+|5415|sash|
+|5416|save|
+|5421|says|
+|5422|scam|
+|5423|scan|
+|5424|seal|
+|5425|seas|
+|5426|seat|
+|5431|seed|
+|5432|seek|
+|5433|seem|
+|5434|seen|
+|5435|sees|
+|5436|self|
+|5441|sell|
+|5442|send|
+|5443|sent|
+|5444|sets|
+|5445|sewn|
+|5446|sham|
+|5451|shed|
+|5452|shin|
+|5453|ship|
+|5454|shoe|
+|5455|shop|
+|5456|shot|
+|5461|show|
+|5462|shun|
+|5463|shut|
+|5464|sick|
+|5465|side|
+|5466|sift|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|5511|sigh|
+|5512|sign|
+|5513|silk|
+|5514|silo|
+|5515|silt|
+|5516|sing|
+|5521|sink|
+|5522|site|
+|5523|sits|
+|5524|size|
+|5525|skin|
+|5526|skip|
+|5531|skis|
+|5532|slab|
+|5533|slag|
+|5534|slam|
+|5535|slap|
+|5536|slaw|
+|5541|sled|
+|5542|slim|
+|5543|slip|
+|5544|slit|
+|5545|slop|
+|5546|slot|
+|5551|slow|
+|5552|slug|
+|5553|slum|
+|5554|smog|
+|5555|smug|
+|5556|snag|
+|5561|snap|
+|5562|snow|
+|5563|snub|
+|5564|snug|
+|5565|soak|
+|5566|soap|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|5611|soar|
+|5612|sock|
+|5613|soda|
+|5614|sofa|
+|5615|soft|
+|5616|soil|
+|5621|sold|
+|5622|sole|
+|5623|solo|
+|5624|some|
+|5625|song|
+|5626|soon|
+|5631|sort|
+|5632|soul|
+|5633|soup|
+|5634|sour|
+|5635|spam|
+|5636|span|
+|5641|spew|
+|5642|spin|
+|5643|spit|
+|5644|spot|
+|5645|spry|
+|5646|spud|
+|5651|spun|
+|5652|spur|
+|5653|star|
+|5654|stat|
+|5655|stay|
+|5656|stem|
+|5661|step|
+|5662|stew|
+|5663|stir|
+|5664|stop|
+|5665|stun|
+|5666|subs|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|6111|such|
+|6112|suck|
+|6113|suds|
+|6114|suit|
+|6115|sulk|
+|6116|sums|
+|6121|sung|
+|6122|sunk|
+|6123|suns|
+|6124|sure|
+|6125|surf|
+|6126|swab|
+|6131|swam|
+|6132|swan|
+|6133|swap|
+|6134|swat|
+|6135|sway|
+|6136|swim|
+|6141|sync|
+|6142|tabs|
+|6143|tack|
+|6144|taco|
+|6145|tags|
+|6146|tail|
+|6151|take|
+|6152|tale|
+|6153|talk|
+|6154|tall|
+|6155|tame|
+|6156|tang|
+|6161|tank|
+|6162|tape|
+|6163|taps|
+|6164|tarp|
+|6165|tart|
+|6166|task|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|6211|taxi|
+|6212|teal|
+|6213|team|
+|6214|tear|
+|6215|tech|
+|6216|tell|
+|6221|temp|
+|6222|tend|
+|6223|tent|
+|6224|term|
+|6225|test|
+|6226|text|
+|6231|than|
+|6232|that|
+|6233|thaw|
+|6234|thee|
+|6235|them|
+|6236|then|
+|6241|they|
+|6242|thin|
+|6243|this|
+|6244|thou|
+|6245|thus|
+|6246|tide|
+|6251|tidy|
+|6252|tied|
+|6253|ties|
+|6254|tile|
+|6255|till|
+|6256|tilt|
+|6261|time|
+|6262|tint|
+|6263|tiny|
+|6264|tips|
+|6265|tire|
+|6266|toad|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|6311|toes|
+|6312|tofu|
+|6313|toil|
+|6314|told|
+|6315|toll|
+|6316|tomb|
+|6321|tone|
+|6322|tons|
+|6323|took|
+|6324|tool|
+|6325|tops|
+|6326|tore|
+|6331|torn|
+|6332|toss|
+|6333|tour|
+|6334|town|
+|6335|toys|
+|6336|tram|
+|6341|trap|
+|6342|tray|
+|6343|tree|
+|6344|trek|
+|6345|trim|
+|6346|trio|
+|6351|trip|
+|6352|trot|
+|6353|true|
+|6354|tuba|
+|6355|tube|
+|6356|tuck|
+|6361|tuft|
+|6362|tuna|
+|6363|tune|
+|6364|turf|
+|6365|turn|
+|6366|tusk|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|6411|tutu|
+|6412|twig|
+|6413|twin|
+|6414|type|
+|6415|undo|
+|6416|unit|
+|6421|upon|
+|6422|used|
+|6423|user|
+|6424|uses|
+|6425|vain|
+|6426|vans|
+|6431|vary|
+|6432|vase|
+|6433|vast|
+|6434|veer|
+|6435|veil|
+|6436|vent|
+|6441|very|
+|6442|vest|
+|6443|veto|
+|6444|vial|
+|6445|vibe|
+|6446|vice|
+|6451|view|
+|6452|vile|
+|6453|vine|
+|6454|visa|
+|6455|void|
+|6456|vote|
+|6461|wage|
+|6462|wait|
+|6463|wake|
+|6464|walk|
+|6465|wall|
+|6466|wand|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|6511|want|
+|6512|ward|
+|6513|warm|
+|6514|warn|
+|6515|warp|
+|6516|wary|
+|6521|wash|
+|6522|wasp|
+|6523|wave|
+|6524|wavy|
+|6525|ways|
+|6526|weak|
+|6531|wear|
+|6532|weed|
+|6533|week|
+|6534|well|
+|6535|went|
+|6536|were|
+|6541|west|
+|6542|what|
+|6543|whee|
+|6544|when|
+|6545|whim|
+|6546|whiz|
+|6551|whoa|
+|6552|whom|
+|6553|wick|
+|6554|wide|
+|6555|wife|
+|6556|wifi|
+|6561|wigs|
+|6562|wild|
+|6563|will|
+|6564|wilt|
+|6565|wimp|
+|6566|wind|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|6611|wine|
+|6612|wing|
+|6613|wink|
+|6614|wins|
+|6615|wipe|
+|6616|wire|
+|6621|wiry|
+|6622|wise|
+|6623|wish|
+|6624|with|
+|6625|wits|
+|6626|woah|
+|6631|woke|
+|6632|wolf|
+|6633|wood|
+|6634|woof|
+|6635|wool|
+|6636|word|
+|6641|wore|
+|6642|work|
+|6643|worn|
+|6644|wrap|
+|6645|yank|
+|6646|yard|
+|6651|yarn|
+|6652|yawn|
+|6653|yeah|
+|6654|year|
+|6655|yell|
+|6656|yelp|
+|6661|yoga|
+|6662|york|
+|6663|your|
+|6664|zeal|
+|6665|zips|
+|6666|zone|
+
+---
+

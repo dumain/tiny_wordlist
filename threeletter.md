@@ -1,216 +1,246 @@
-11135	abs
-11264	ads
-11352	ago
-11364	aid
-11414	air
-11451	all
-11561	amp
-12115	any
-12135	app
-12156	apt
-12163	arc
-12211	are
-12222	arm
-12266	ash
-12353	ate
-12445	ave
-12514	awe
-12526	aye
-12645	bam
-12651	ban
-13232	bay
-13425	big
-13442	bin
-13446	bio
-13661	bob
-14114	bog
-14161	boo
-14244	bot
-14314	box
-14626	bun
-14656	bus
-15133	cab
-15231	cam
-16563	cod
-16643	com
-21332	cot
-22112	cue
-22223	cut
-22242	dab
-22243	dad
-22561	den
-23121	dev
-23134	dew
-23152	did
-23165	dim
-23216	din
-23235	dip
-23351	doc
-23662	dry
-24126	dug
-24151	duo
-24416	ego
-24445	elf
-24453	elk
-24455	elm
-24544	emu
-25116	era
-25166	eve
-25364	fad
-25465	far
-25541	fax
-25544	fed
-25642	few
-25665	fig
-26162	fir
-26225	fix
-26435	fly
-26453	foe
-26454	fog
-26535	for
-26623	fox
-31151	fry
-31162	fun
-31232	gab
-31235	gag
-31331	gas
-31364	gel
-31412	gen
-31664	goo
-32131	got
-32433	gum
-32454	guy
-32456	gym
-32513	had
-32535	ham
-32645	has
-33325	hid
-33352	hip
-33413	hog
-33461	hop
-33525	hot
-33542	how
-33545	hub
-34112	ice
-34123	icy
-34245	ink
-34251	inn
-34325	ion
-34364	ivy
-34516	jig
-34533	jog
-34556	jot
-34616	jug
-35124	keg
-35142	kid
-35152	kin
-35212	kit
-35465	lax
-35545	led
-35666	lid
-36232	lit
-36365	lot
-36434	lug
-41164	maw
-41165	max
-41211	may
-41343	met
-41365	mid
-41436	min
-41515	mix
-41556	mom
-41621	moo
-41636	mop
-42134	mow
-42143	mud
-42162	mum
-42262	nab
-42264	nag
-42321	nap
-42342	nay
-42531	nod
-42543	nor
-42616	now
-42645	nut
-42656	oaf
-42661	oak
-43144	off
-43161	oil
-43164	old
-43312	opt
-43316	orb
-43332	ore
-43356	our
-43466	owe
-43663	par
-44361	pep
-44363	per
-44611	pip
-45442	pow
-45452	pox
-46135	pry
-46153	pug
-46215	pun
-46223	pup
-46433	rad
-46533	ram
-46541	ran
-46642	raw
-51224	ref
-52144	rid
-52163	rig
-52214	rim
-52442	rot
-52513	rub
-52526	rue
-52531	rug
-52626	rut
-52631	rye
-53214	sap
-53225	sat
-53252	saw
-53654	sew
-54424	shy
-54465	sim
-54531	sip
-54652	sky
-55251	sly
-55513	sod
-55621	sow
-55622	soy
-55624	spa
-56336	spy
-62215	tan
-62246	tar
-62315	tat
-62325	tax
-62332	tea
-62344	tee
-63111	tin
-63261	tow
-63563	try
-63565	tub
-63622	tug
-63664	tux
-65221	vet
-65224	via
-65265	vip
-65421	vow
-65433	wad
-65521	wan
-65554	was
-65651	web
-66114	wet
-66155	who
-66211	why
-66356	wok
-66364	won
-66536	yak
-66541	yam
-66553	yay
-66615	yes
-66616	yet
-66632	you
-66636	yum
-66645	zen
-66665	zoo
+|Roll|Word|
+|:---|:---|
+|111|abs|
+|112|ads|
+|113|ago|
+|114|aid|
+|115|air|
+|116|all|
+|121|amp|
+|122|any|
+|123|app|
+|124|apt|
+|125|arc|
+|126|are|
+|131|arm|
+|132|ash|
+|133|ate|
+|134|ave|
+|135|awe|
+|136|aye|
+|141|bam|
+|142|ban|
+|143|bay|
+|144|big|
+|145|bin|
+|146|bio|
+|151|bob|
+|152|bog|
+|153|boo|
+|154|bot|
+|155|box|
+|156|bun|
+|161|bus|
+|162|cab|
+|163|cam|
+|164|cod|
+|165|com|
+|166|cot|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|211|cue|
+|212|cut|
+|213|dab|
+|214|dad|
+|215|den|
+|216|dev|
+|221|dew|
+|222|did|
+|223|dim|
+|224|din|
+|225|dip|
+|226|doc|
+|231|dry|
+|232|dug|
+|233|duo|
+|234|ego|
+|235|elf|
+|236|elk|
+|241|elm|
+|242|emu|
+|243|era|
+|244|eve|
+|245|fad|
+|246|far|
+|251|fax|
+|252|fed|
+|253|few|
+|254|fig|
+|255|fir|
+|256|fix|
+|261|fly|
+|262|foe|
+|263|fog|
+|264|for|
+|265|fox|
+|266|fry|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|311|fun|
+|312|gab|
+|313|gag|
+|314|gas|
+|315|gel|
+|316|gen|
+|321|goo|
+|322|got|
+|323|gum|
+|324|guy|
+|325|gym|
+|326|had|
+|331|ham|
+|332|has|
+|333|hid|
+|334|hip|
+|335|hog|
+|336|hop|
+|341|hot|
+|342|how|
+|343|hub|
+|344|ice|
+|345|icy|
+|346|ink|
+|351|inn|
+|352|ion|
+|353|ivy|
+|354|jig|
+|355|jog|
+|356|jot|
+|361|jug|
+|362|keg|
+|363|kid|
+|364|kin|
+|365|kit|
+|366|lax|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|411|led|
+|412|lid|
+|413|lit|
+|414|lot|
+|415|lug|
+|416|maw|
+|421|max|
+|422|may|
+|423|met|
+|424|mid|
+|425|min|
+|426|mix|
+|431|mom|
+|432|moo|
+|433|mop|
+|434|mow|
+|435|mud|
+|436|mum|
+|441|nab|
+|442|nag|
+|443|nap|
+|444|nay|
+|445|nod|
+|446|nor|
+|451|now|
+|452|nut|
+|453|oaf|
+|454|oak|
+|455|off|
+|456|oil|
+|461|old|
+|462|opt|
+|463|orb|
+|464|ore|
+|465|our|
+|466|owe|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|511|par|
+|512|pep|
+|513|per|
+|514|pip|
+|515|pow|
+|516|pox|
+|521|pry|
+|522|pug|
+|523|pun|
+|524|pup|
+|525|rad|
+|526|ram|
+|531|ran|
+|532|raw|
+|533|ref|
+|534|rid|
+|535|rig|
+|536|rim|
+|541|rot|
+|542|rub|
+|543|rue|
+|544|rug|
+|545|rut|
+|546|rye|
+|551|sap|
+|552|sat|
+|553|saw|
+|554|sew|
+|555|shy|
+|556|sim|
+|561|sip|
+|562|sky|
+|563|sly|
+|564|sod|
+|565|sow|
+|566|soy|
+
+---
+
+|Roll|Word|
+|:---|:---|
+|611|spa|
+|612|spy|
+|613|tan|
+|614|tar|
+|615|tat|
+|616|tax|
+|621|tea|
+|622|tee|
+|623|tin|
+|624|tow|
+|625|try|
+|626|tub|
+|631|tug|
+|632|tux|
+|633|vet|
+|634|via|
+|635|vip|
+|636|vow|
+|641|wad|
+|642|wan|
+|643|was|
+|644|web|
+|645|wet|
+|646|who|
+|651|why|
+|652|wok|
+|653|won|
+|654|yak|
+|655|yam|
+|656|yay|
+|661|yes|
+|662|yet|
+|663|you|
+|664|yum|
+|665|zen|
+|666|zoo|
+
+---
+
