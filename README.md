@@ -18,12 +18,12 @@ He replaced most of the removed words with 3-6 character words from [hermitdave'
 
 I have extracted the three and four letter words, removed some and added some more words from hermitdave's FrequencyWords repo.
 
-There are two wordlists created this way: a 3 dice list of three letter words and a four dice list of four letter words.
+There are two wordlists created this way: a 3 dice list of three letter words and a 4 dice list of four letter words.
 
 I have also created a 2 dice wordlist of two letter words by just writing down the 36 two letter words and exclamations
 that seemed most familiar.
 
-Thus both provide nearly 2.6 bits of entropy per letter when used with
+These wordlists  provide nearly 2.6 bits of entropy per letter when used with
 a really good source of improbability (say a Brambleweeny 57 Sub-Meson
 Brain connected to an atomic vector plotter suspended in a nice hot cup
 of tea or some fair dice)
