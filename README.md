@@ -1,4 +1,4 @@
-# Tow, three and four word diceware wordlists
+# Two, three and four word diceware wordlists
 
 The EFF has published a [great set of diceware wordlists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and an [informative diceware page](https://www.eff.org/dice).  The wordlist can also be found in the EFF's [eff_diceware repo on GitHub](https://github.com/EFForg/eff_diceware).
 This repository contains a couple of wordlists derived from truncated versions of Phil Thompson's 
